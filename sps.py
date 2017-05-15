@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #!Desenvolvido por:_carlosnericorreia_
-#!email: hackerama@openmailbox.org
+#!email: hackerama@protonmail.com	
 #!SPS - Simple TCP Port Scanner - versao 1.0t
 
 print ("\n\n[+] Inciando o SPS - TCP Port Scanner [+]\n")
