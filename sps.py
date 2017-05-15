@@ -25,6 +25,7 @@ for porta in range(1, 1024):
 	if active_count() > 700:     #Evita um Runtime Error
 		time.sleep(1)
 	t = Thread(target=scan, args=(porta,))
+	t.setDaemon(True)	
 	t.start()
 
 print("\n"*2)	
