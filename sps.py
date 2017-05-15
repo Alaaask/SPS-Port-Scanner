@@ -30,4 +30,3 @@ for porta in range(1, 1024):
 print("\n"*2)	
 total_time= time.time() - time_start	
 print ("Scan Finalizado em %.2f segundos" % total_time)
-
